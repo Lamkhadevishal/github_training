@@ -5,6 +5,11 @@ three days in a row, you’re still out of shape. If you study Mandarin for an h
 tonight, you still haven’t learned the language. We make a few changes, but the
 results never seem to come quickly and so we slide back into our previous
 routines.
+
+The truth is that habits are the compound interest of self-improvement. The
+effects of your habits multiply as you repeat them across time. A single
+
+
 Unfortunately, the slow pace of transformation also makes it easy to let a bad
 habit slide. If you eat an unhealthy meal today, the scale doesn’t move much. If
 you work late tonight and ignore your family, they will forgive you. If you
@@ -16,10 +21,5 @@ choices compound into toxic results. It’s the accumulation of many missteps—
 1 percent decline here and there—that eventually leads to a problem.
 The impact created by a change in your habits is similar to the effect of
 shifting the route of an airplane by just a few degrees. Imagine you are flying
-from Los Angeles to New York City. If a pilot leaving from LAX adjusts the
-heading just 3.5 degrees south, you will land in Washington, D.C., instead of
-New York. Such a small change is barely noticeable at takeoff—the nose of the
-airplane moves just a few feet—but when magnified across the entire United
-States, you end up hundreds of miles apart.
-hello my name is vishal 
+
 i  am learning git
