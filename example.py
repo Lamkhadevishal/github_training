@@ -1,2 +1,2 @@
-def checkk():
-    return""
+def check():
+    return "this is the check function"
