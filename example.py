@@ -1,2 +1,2 @@
 def check():
-    return "this is the check function"
+    return "this is the check "
