@@ -1,1 +1,2 @@
 Login Feature Added
+This is the login feature for the application. It allows users to securely log in to their accounts using their credentials. The login process includes validation and error handling to ensure a smooth user experience.
